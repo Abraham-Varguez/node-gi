@@ -1,0 +1,64 @@
+{
+    "employees"[
+        {
+            "userId" : "1",
+            "name": "John Appleseed",
+            "salary":"300,000",
+            "department":"CEO"
+        },
+        {
+            "userId" : "12",
+            "name": "Mary LittleLamb",
+            "salary":"200,000",
+            "department":"CFO"
+        },
+        {
+            "userId" : "123",
+            "name": "Peter Pan",
+            "salary":"100,000",
+            "department":"Marketing"
+        },
+        {
+            "userId" : "1234",
+            "name": "Rumple Stilskin",
+            "salary":"80,000",
+            "department":"Marketing"
+        },
+        {
+            "userId" : "12345",
+            "name": "Tom Cat",
+            "salary":"20,000",
+            "department":"Marketing"
+        },
+        {
+            "userId" : "123456",
+            "name": "Jerry Smith",
+            "salary":"12,000",
+            "department":"Custodial"
+        },
+        {
+            "userId" : "1234567",
+            "name": "Sanji Vinsmoke",
+            "salary":"100,000",
+            "department":"Culinary"
+        },
+        {
+            "userId" : "12345678",
+            "name": "Yuji Itadori",
+            "salary":"100,000",
+            "department":"Security"
+        },
+        {
+            "userId" : "123456789",
+            "name": "Katrina Appleseed",
+            "salary":"200,000",
+            "department":"Music"
+        },
+        {
+            "userId" : "12345678910",
+            "name": "Bob Appleseed",
+            "salary":"50,000",
+            "department":"Engineering"
+        }
+    ]
+}
